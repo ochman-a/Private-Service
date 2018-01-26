@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{4FADB130-385A-4122-B8F2-0C169F6D08F7}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="PrivateService/Program.cs">
+    <Files>
+      <File FileName="PrivateService/Program.cs" Line="34" Column="18" />
+      <File FileName="Escort/Escort.cs" Line="25" Column="40" />
+      <File FileName="Hotel/Hotel.cs" Line="11" Column="111" />
+      <File FileName="Transport/Transport.cs" Line="19" Column="45" />
+      <File FileName="Interface/IReservable.cs" Line="9" Column="1" />
+      <File FileName="Interface/ILouable.cs" Line="6" Column="9" />
+      <File FileName="Interface/IAchetable.cs" Line="9" Column="1" />
+      <File FileName="Service/Service.cs" Line="54" Column="1" />
+      <File FileName="Transport/Air.cs" Line="8" Column="10" />
+      <File FileName="Transport/Mer.cs" Line="6" Column="20" />
+      <File FileName="Transport/Terre.cs" Line="4" Column="35" />
+      <File FileName="PrivateService/Database.cs" Line="39" Column="17" />
+      <File FileName="Client/Client.cs" Line="11" Column="33" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.PrivateService PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>
